@@ -44,7 +44,7 @@ By incentivizing users to engage with apps, video games, online and social media
 
 In this approach, minting & evolution scale, and the blockchain is used to certify the attributes of all assets, now, and in every past state, unlike traditional NFT storage that is often centralized on privately-owned servers.
 
-### **V. **<mark style="color:green;">**Stop Asking**</mark>** Private Serves **<mark style="color:green;">**What It Is That You Own**</mark>
+### **V. **<mark style="color:green;">**Stop Asking**</mark>** Private Servers **<mark style="color:green;">**What It Is That You Own**</mark>
 
 When transferring BTC or ETH, nobody is forced to ask a central party whether the initial payer had enough balance, or whether the transfer went through. The blockchain has this information, and everyone can ask in a decentralized way.&#x20;
 
