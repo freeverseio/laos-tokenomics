@@ -1,10 +1,12 @@
 # ⛓️ Architecture
 
-<figure><img src="../.gitbook/assets/LAOS-AR3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LAOS-AR3.png" alt=""><figcaption><p>The long term architecture for the LAOS Network, as described in the Technical Whitepaper.</p></figcaption></figure>
 
 ## Components&#x20;
 
-LAOS will be built atop the <mark style="color:green;">**four distinct components**</mark> depicted in the above graphic. We hereby detail each component part in turn, and outline its role in powering the functioning LAOS ecosystem.&#x20;
+As described in the [Technical Whitepaper](https://github.com/freeverseio/laos-whitepaper/blob/main/laos.pdf), LAOS will initially launch as a single Parachain, and eventually implement an architecture that resembles that of relay chain, specialized in digital ownership. &#x20;
+
+When all stages of development are completed, LAOS will be built atop the <mark style="color:green;">**four distinct components**</mark> depicted in the above graphic. We hereby detail each component part in turn, and outline its role in powering the functioning LAOS ecosystem.&#x20;
 
 
 

@@ -1,65 +1,14 @@
 # 🎯 Development Milestones
 
-LAOS MVP is close to being feature complete. The MVP will be deployed to Kusama before end of 2023, as a step prior to acquiring a Parachain slot in Polkadot, and launching to mainnet before March 2024.
+LAOS Network has secured a Parachain slot in Polkadot and is ready to launch in the second week of July 2024. Most of the low-level core protocol development occurs in [this public repository](https://github.com/freeverseio/laos) and is organised via this public Scrum [project board](https://github.com/orgs/freeverseio/projects/3/views/2).
 
-LAOS maintains a public [high-level roadmap](https://github.com/freeverseio/LAOS-roadmap) as well as a detailed SCRUM [project board](https://github.com/orgs/freeverseio/projects/3/views/2), aimed at providing transparency about the Engineering progress, and facilitate contributions.
+The following table chronicles the developments from the formal start up to the end of 2024. The table will be updated as new milestones are reached or formalized.
 
-<figure><img src="../.gitbook/assets/LAOS-Ro.png" alt=""><figcaption></figcaption></figure>
-
-### 🏗️  **Substrate Builder Program Approval - April '23**
-
-LAOS development effort started in early 2023, and the project was later accepted into the Polkadot's Substrate Builders Program in April 2023, guarantees Parity's tech, code audits, and marketing support for the development of the LAOS network.&#x20;
-
-### :chains: **Development Milestone 1 - Sept '23**
-
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-
-**Status:** Milestone successfully achieved, reviewed by Parity.
-
-**Objective:** The creation of core basic infrastructure for the LAOS network.&#x20;
-
-**Overview:** The primary goals are to create the LAOS ownership chain (ownChain) as a parachain of Rococo, and create the first LAOS evolution chain (evoChain). A bi-directional trustless bridge will be installed to enable cross-chain communication, allowing the ownership chain to govern the evolution chain. This bi-directional bridge will sit between Rococo and the LAOS ownership chain. During the initial phase, the LAOS evolution chain will sit as a solochain based on the [substrate node template](https://github.com/substrate-developer-hub/substrate-node-template), to be later connected via the installation of a light client in the ownership chain. Finally, this development phase will conclude with the enabling of bidirectional communication  of the LAOS chain through trustless bridges through to all aspects of the EvoChain as illustrated in the above graphic.&#x20;
-
-**Deliverables:**&#x20;
-
-* Create the LAOS Ownership chain node (ownChain)
-* Create the LAOS Evolution Chain node (evoChain)&#x20;
-* Connect via solochain-parachain bidirectional bridge
-
-### 🚀 Development Milestone 2 **- Dec '23**
-
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
-
-**Status:** In progress. On track for deadline.
-
-**Objective:** The implementation of core basic infrastructure for LAOS Assets. &#x20;
-
-**Overview:** Primary goals will include enabling LAOS to create collections, transfer LAOS Assets, evolve the assets' metadata, generate proofs, and verify assets metadata via provision of Merkle proofs. As such, the compatibility layer with the ERC721 standard will also be integrated to provide an Ethereum JSON-RPC API for the compatibility of incumbent DApps (eg. Metamask).&#x20;
-
-This phase will also include business logic for creating collections and managing their evolution. We will develop a LAOS Assets ownership pallet based on the NFTs pallet and integrate it into the ownership chain. Additionally, we will develop a LAOS Assets evolution pallet and integrate it into the evolution chain. This will allow the creation and evolution of collections.
-
-**Deliverables:**&#x20;
-
-* Development & integration of LAOS Assets ownership pallet on ownChain and evoChain
-* Introduce LAOS ERC721 node&#x20;
-* Generate & verify proof of existence of assets metadata
-
-### 🌐 Development Milestone 3 **- Mar '24**
-
-**Status:** Not started.
-
-**Objective:** The finalization of core infrastructure for LAOS network.
-
-**Overview:** Specifically, this phase will prioritize cross-chain communication with sibling parachains, conduct a thorough code audit, and make preparations for the stable release of the code. We will also create a dynamic asset marketplace to demonstrate the system's capabilities. Finally, we will enable staking and transition from sudo to a more decentralized governance system. To enable a functioning LAOS token, this phase will implement the XC-20 protocol for reserve transfer and activate the XCMv3 primitives to control LAOS Assets from sibling parachains. Additionally, we will create the second LAOS evolution chain and integrate means to move collections among evoChains.
-
-**Deliverables:**&#x20;
-
-* Implement XC-20 protocol&#x20;
-* stable release of LAOS ownership node, evolution node, ERC721 node, bridge
-* Enable staking&#x20;
-* Cross-chain integration
+## Milestone Chronology
 
 
+
+<table><thead><tr><th width="191">Date</th><th>Milestone</th></tr></thead><tbody><tr><td>2023 Q1</td><td><ul><li>Formal start of LAOS core development</li></ul></td></tr><tr><td>2023 Q2</td><td><ul><li>Approval and Entry to Polkadot's Substrate Builders Program</li></ul></td></tr><tr><td>2023 Q3</td><td><ul><li>LAOS Chain Foundation established in Zug, Switzerland </li><li>First version of LAOS stable in dev environment</li></ul></td></tr><tr><td>2023 Q4</td><td><ul><li>Substrate Builder Program Finished</li><li><p>LAOS live in Kusama with:</p><ul><li>Bridgeless Minter</li><li>Faucet</li><li>Block Explorer</li></ul></li></ul></td></tr><tr><td>2024 Q1</td><td><ul><li>Asset Metadata Extender enabled in LAOS on Kusama</li><li>First version of Universal Node published</li></ul></td></tr><tr><td>2024 Q2</td><td><ul><li>Swiss Regulator FINMA approves LAOS as Utility Token</li><li>Announcement of LAOS Grants Program</li><li>Crowdloan &#x26; Winning of Auction #68</li><li>July 11th-12th, 2024: Token Generation Event (TGE)</li></ul></td></tr><tr><td><mark style="color:green;">2024 July 11th-12th</mark></td><td><ul><li><mark style="color:green;">Token Generation Event</mark> </li></ul></td></tr><tr><td>2024 Q3</td><td><ul><li>Onboarding of third party permissioned collators</li><li>Public Sale: currently in contact with various Launchpads. Details about the Public Sale will be published as soon as possible. </li><li>Crowdloan and Public Sale tokens distribution</li><li>Token transferability enabled, following completion of Public Sale</li><li>Full EVM integration</li><li>Bridgeless Minting enabled</li><li>Decentralized Asset Metadata extension enabled</li><li>Transition from permissioned to permissionless collators</li></ul></td></tr><tr><td>2024 Q4</td><td><ul><li>Integration of Decentralized Governance functionalities</li><li>XCM enabled</li><li>DEX/CEX listings</li></ul></td></tr></tbody></table>
 
 {% hint style="info" %}
 🗒 **Development Notes:** The LAOS team follows the Scrum methodology, conducting sprint cycles lasting two weeks. All software developed as part of the LAOS Parachain project is released as open-source under an appropriate license.
