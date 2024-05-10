@@ -18,8 +18,8 @@
 ## Tokenomics
 
 * [🪙 LAOS Utility Token](tokenomics/laos-utility-token.md)
-* [⚖️ Token Distribution](tokenomics/token-distribution.md)
 * [🧑‍🤝‍🧑 Stakeholders](tokenomics/stakeholders.md)
+* [⚖️ Token Distribution](tokenomics/token-distribution.md)
 * [🌐 Collator Incentives](tokenomics/collator-incentives.md)
 * [📈 Inflation and Fee Model](tokenomics/inflation-and-fee-model.md)
 * [👥 Crowdloan](tokenomics/crowdloan.md)

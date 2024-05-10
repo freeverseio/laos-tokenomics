@@ -1,6 +1,6 @@
 # 🧑‍🤝‍🧑 Stakeholders
 
-The LAOS Protocol's delivery of the LAOS blockchain is the <mark style="color:green;">**culmination of the collective efforts/allotments of numerous different stakeholders within the LAOS ecosystem**</mark>. We'll briefly highlight each of these key stakeholder groups below, in turn.&#x20;
+The LAOS Protocol's delivery of the LAOS blockchain is the <mark style="color:green;">**culmination of the collective efforts of numerous different stakeholders within the LAOS ecosystem**</mark>. We'll briefly highlight each of these key stakeholder groups below, in turn.&#x20;
 
 
 
@@ -8,27 +8,25 @@ The LAOS Protocol's delivery of the LAOS blockchain is the <mark style="color:gr
 
 While a broad group of stakeholders will interact with the LAOS token given its nature as a liquid and publicly accessible asset, there are <mark style="color:green;">**3 main token network participants.**</mark>&#x20;
 
-1. <mark style="color:green;">**Users**</mark> - Transacting within the LAOS ecosystem using LAOS tokens. These include minting, modifying attributes, and trading.
-2. <mark style="color:green;">**Validators**</mark> - Staking LAOS tokens to secure the Ownership Parachain & EvoChains of LAOS by voting on and verifying the inclusion of new blocks.
-3. <mark style="color:green;">**Delegators**</mark> - Assigning LAOS tokens to validators to participate in network security.&#x20;
+1. <mark style="color:green;">**Users**</mark> - Transact within the LAOS ecosystem using LAOS tokens. These include, among others, bridgeless minting offloading from other chains, asset attributes evolution or metadata extensions.
+2. <mark style="color:green;">**Collators**</mark> - Lock LAOS tokens to become key actors that produce new blocks while ensuring liveness and lack of censorship (all transactions are treated equally), data availability (everyone has access to the data to verify validity by themselves), and provide an initial validation of the included transactions and their effect - a final validation is provided by the validators of the Polkadot Relay Chain.
+3. <mark style="color:green;">**Delegators**</mark> - Assign LAOS tokens to Collators who perform honestly and efficiently to participate in network security.&#x20;
 
 It bears noting that representation in these network participant groups is not mutually exclusive. Often stakeholders will belong to more than one group. For instance, a person evolving their LAOS Asset may also delegate a portion of their LAOS tokens to securing the network.&#x20;
-
-
 
 In addition to the three main network participants who represent the fundamental repeating roles as it pertains to the LAOS token, there are <mark style="color:green;">**other key groups of participants engaging with the LAOS ecosystem:**</mark>&#x20;
 
 ### Core Team&#x20;
 
-The team behind the design, development, and implementation of the LAOS platform. Initially, the core team is responsible for driving the business and the LAOS platform forward. A distinction will be eventually drawn between these two elements as the Protocol undergoes progressive decentralization towards a community-managed model.&#x20;
+The team behind the design, development, and implementation of the LAOS platform. Initially, the core team is responsible for driving the adoption and the LAOS platform forward. A distinction will be eventually drawn between these two elements as the Protocol undergoes progressive decentralization towards a community-managed model.&#x20;
 
 ### Private Investors&#x20;
 
-In order to capitalize the initial development, the LAOS protocol will fundraise from accredited investors through private financings (eg. angel, friends & family) and/or venture capital rounds. This should be clearly understood as a separate fundraising effort than public/open market token purchases.&#x20;
+In order to capitalize the initial development, the LAOS protocol will fundraise from accredited investors through private financings (e.g., angel, friends & family) and/or venture capital rounds. This should be understood as a fundraising effort separate from public or open market token purchases.&#x20;
 
 ### Public Market Token Participants&#x20;
 
-The category of LAOS users that have web3 expertise and acquire the LAOS token on the secondary market to have an owenership stake in the ecosystem at-large.&#x20;
+The category of LAOS users that have web3 expertise and acquire the LAOS token on the secondary market to have an ownership stake in the ecosystem at-large.&#x20;
 
 This category of investors can be further parsed into the following:&#x20;
 
@@ -46,7 +44,7 @@ _**Core Contributor Developers -**_ developers with web3 experience equipped to 
 
 _**Development Partners -**_ entities that build on top of the LAOS chain as a service for external clients. Eg. An agency hired to run a brand's NFT experience&#x20;
 
-_**Web3 Developers -**_ developers with web3 experience equipped to build on top of the LAOS Parachain with their own products/services. Eg. Dapp developers&#x20;
+_**Web3 Developers -**_ developers with web3 experience equipped to build on top of the LAOS Parachain with their own products/services. Eg. DApp developers&#x20;
 
 _**Web2 Developers -**_ developers without requisite expertise to build directly on top of LAOS Parachain. Eg. traditional brands.&#x20;
 
@@ -58,7 +56,7 @@ The pool of LAOS tokens (and other assets) that is held by the LAOS DAO. The tre
 
 ### Crowdloan Contributors&#x20;
 
-Participants in the Polkadot crowdloan campaign to fund the launch of the LAOS Ownership Parachain fulfill a strong role in bootstrapping the LAOS ecosystem. &#x20;
+Participants in the Polkadot crowdloan campaign to fund the launch of the LAOS Ownership Parachain fulfil a strong role in bootstrapping the LAOS ecosystem. &#x20;
 
 ### Community Incentives & Distributions
 

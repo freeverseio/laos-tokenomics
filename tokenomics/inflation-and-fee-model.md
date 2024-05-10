@@ -1,7 +1,5 @@
 # 📈 Inflation and Fee Model
 
-##
-
 ## Token Supply Inflation
 
 Token inflation plays a pivotal role in <mark style="color:green;">**securing the sustainable economic health of LAOS**</mark>. The designed mechanism allows the parachain to maintain a predictable and sustainable inflation rate that <mark style="color:green;">**incentivizes network participation**</mark> while allowing for the <mark style="color:green;">**preservation of token value**</mark>.&#x20;
