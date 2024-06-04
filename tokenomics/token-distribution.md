@@ -42,7 +42,7 @@ The following table specifies the vesting conditions for each pool, sorted by in
 
 Given the vesting conditions of each pool, the following chart illustrates the evolution of the total amount of LAOS tokens vested per month over the first four years post-launch:
 
-<figure><img src="../.gitbook/assets/chart-3_1_branded_v2.svg" alt=""><figcaption><p>Evolution of the total amount of LAOS Tokens (vertical axis) vested per month, grouped by pool.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/chart_fixed_1_v2.svg" alt=""><figcaption><p>Evolution of the total amount of LAOS Tokens (vertical axis) vested per month, grouped by pool.</p></figcaption></figure>
 
 The following plot highlights a relevant aspect of the vesting conditions. The <mark style="color:green;">**commitment to early decentralization becomes evident when analyzing the circulating supply**</mark>. Initially, the liquid token supply is fully in the hands of the community. As tokens allotted to investors and core team members progressively unlock, the community's share incrementally decreases. However, it always maintains at least 60%, <mark style="color:green;">**ensuring LAOS remains sufficiently decentralized at all times**</mark>.&#x20;
 
